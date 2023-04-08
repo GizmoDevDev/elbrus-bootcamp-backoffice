@@ -224,6 +224,9 @@ _Постановка задачи и ее реализация никак не 
 
 ### Эпики и оценка сложности
 
+Для хранения задач и эпиков используются [issues](https://github.com/GizmoDevDev/elbruk-bootcamb-backoffice/issues) и [milestones](https://github.com/GizmoDevDev/elbruk-bootcamb-backoffice/milestones) гитхаба.  
+Для контроля текущего статуса задач - [Github projects](https://github.com/users/GizmoDevDev/projects/1/views/1)
+
 В рамках данного проекта я буду использовать _передовую_ оценку сложности задачи в попугаях. Один попугай примерно полдня работы.
 
 Для декомпозиции проекта на конкретные задачи используется вертикальная и затем горизонтальная декомпозиция:
